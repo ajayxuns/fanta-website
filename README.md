@@ -37,5 +37,22 @@ This project is a vibrant, modern promotional landing page featuring dynamic, sc
 └── script.js        # GSAP timelines and ScrollTrigger configuration
 ```
 
-## Getting Started
+## 🚀 Getting Started
 
+### 1. Clone the Repository
+```bash
+    git clone https://github.com/ajayxuns/fanta-website.git
+    cd fanta-website
+```
+### 2. Launch
+
+    Open index.html directly in any web browser.
+    Or run it using the Live Server extension in VS Code.
+
+### 3. 👤 Author
+
+    GitHub: @ajayxuns
+
+### 4. 📜 License
+
+This project is open-source and available under the MIT License.
